@@ -1,0 +1,26 @@
+.red {
+    color: red;
+}
+
+.center {
+    padding-left: 350px;
+}
+
+.above {
+    padding-top: 150px;
+}
+
+.below {
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-left: 310px;
+    width: 300px;
+    height: 20px
+}
+
+.search {
+    margin-left: 410px;
+    width: 100px;
+}
